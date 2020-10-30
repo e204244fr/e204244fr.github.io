@@ -1,0 +1,25 @@
+h1{
+    color:#000080;
+    font-family: "Impact";
+    text-align: center;
+    background-color:#afeeee;
+}
+h2{
+    color:#191970;
+    font-weight: normal;
+    font-family: "Impact";
+    text-align: center;
+    background-color:#add8e6;
+}
+h3{
+    color:#00008b;
+    font-weight: normal;
+    font-family: "Impact";
+}
+p{
+   background-color:floralwhite;
+   color:darkslateblue; 
+}
+body{
+   background-image: url(../images/nikukyuu.jpg);
+}
