@@ -1,0 +1,24 @@
+body{
+   background-image: url(../images/mizutama.jpg);
+}
+h1{
+    color:azure;
+    font-family: "Impact";
+    text-align: center;
+    background-color:cornflowerblue;
+}
+h2{
+    color:azure;
+    font-weight: normal;
+    font-family: "Impact";
+    text-align: center;
+    background-color:#191970;
+}
+table{
+     background-color:azure;
+}
+
+ol{
+   background-image: url(../images/siro.jpeg);
+    
+}
