@@ -1,15 +1,15 @@
 h1{
-    color:#000080;
+    color:dodgerblue;
     font-family: "Impact";
     text-align: center;
-    background-color:#afeeee;
+    background-color:azure;
 }
 h2{
-    color:#191970;
+    color:cornflowerblue;
     font-weight: normal;
     font-family: "Impact";
     text-align: center;
-    background-color:#add8e6;
+    background-color:aliceblue;
 }
 h3{
     color:#00008b;
@@ -17,8 +17,7 @@ h3{
     font-family: "Impact";
 }
 p{
-   background-color:floralwhite;
-   color:darkslateblue; 
+   color:blue; 
 }
 body{
    background-image: url(../images/nikukyuu.jpg);
