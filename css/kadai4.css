@@ -1,0 +1,29 @@
+h1{
+    color:aliceblue;
+    text-align: center;
+    background-color:darkslateblue;
+}
+
+/* h2タグの中でもchitoceriumというidのものだけ装飾 */
+h2#chitocerium{
+    background-color: black;
+    text-align: center;
+    color: azure;
+}
+
+
+h2#jokage{
+    background-color:crimson;
+    text-align: center;
+    color:aliceblue;
+}
+
+h1#link{
+    background-color:darkblue;
+    text-align: center;
+    color:floralwhite;
+}
+
+body{
+    background-image:url(../images/pori.jpg);
+}
