@@ -1,0 +1,92 @@
+div.wrap{
+    width: 1000px;
+    margin: 0px auto;
+}
+
+div.title{
+    width: 1000px;
+    height: 40px;
+    background-color:azure;
+    text-align: left;
+    font-size: 25px;
+    margin-bottom: 20px;
+    padding: 10px 0px 0px 20px;
+}
+
+div.body{
+    width: 1000px;
+    height: 770px;
+    background-color: azure;
+    font-size: 0;
+    background-image: url(../images/haikei3.png);
+}
+
+div.menu{
+    display: inline-block;
+    width: 250px;
+    height: 320px;
+    background-color:#fef4f4;
+    vertical-align: top;
+    margin:0px 0px 20px 50px; /*（上）（右）（下）（左）*/
+}
+
+div.menuiten{
+    display: block;
+    width: 250px;
+    height: 80px;
+    font-size: 20px;
+    background-color:white;
+    vertical-align: top;
+    background-image: url(../images/pink.png);
+    margin:00px 00px 10px; /*（上）（左右）（下）*/
+}
+
+div.image{
+    display: inline-block;
+    vertical-align: top;
+    width: 700px;
+    height: 770px;
+    background-color: beige;
+    
+}
+
+div.image1{
+    display: block;
+    width: 700px;
+    height: 300px;
+    font-size: 50px;
+    background-color: white;
+    vertical-align: top;
+}
+
+div.image2{
+    display: block;
+    width: 700px;
+    height: 150px;
+    font-size: 15px;
+    background-color:white;
+    vertical-align: bottom;
+    background-image: url(../images/moji3.png);
+}
+
+div.image4{
+    display: inline-block;
+    width: 350px;
+    height: 150px;
+    font-size: 14px;
+    background-color: deepskyblue;
+    vertical-align: bottom;
+    margin-top:10px; /*（上）*/
+    background-image: url(../images/moji3.png);
+}
+
+
+div.footer{
+    width: 1000px;
+    height: 40px;
+    background-color:#f6bfbc;
+    font-size: 20px;
+    text-align: right;
+    margin-top: 20px;
+}
+
